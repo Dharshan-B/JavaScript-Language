@@ -31,4 +31,29 @@ eg:
 function abc(){
 console.log("Hello World");
 }
+#  IF ELSE Conditions
+Syntax:
+if(condition){
+}
+else{
+}
+#  For Loop
+Syntax:
+for(initialization;condition;incre/decre){
+}
+#  Arrays and Objects
+let fruits = ["apple", "banana", "mango"];
+console.log(fruits[0]);  // Output: apple
+console.log(fruits.length);  // Output: 3
+// Object
+let person = {
+  name: "Dharshan",
+  age: 22,
+  isStudent: true
+};
 
+console.log(person.name);     // Dharshan
+console.log(person.age);   // 22
+#  UserInput 
+let name = prompt("What is your name?");
+console.log("Hello, " + name + "!");
