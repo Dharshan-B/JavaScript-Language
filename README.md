@@ -57,3 +57,4 @@ console.log(person.age);   // 22
 #  UserInput 
 let name = prompt("What is your name?");
 console.log("Hello, " + name + "!");
+#  Document Object Model:
